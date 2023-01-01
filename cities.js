@@ -43,11 +43,19 @@ const cityViewState = {
     transitionDuration: 5000,
     transitionInterpolator: new deck.FlyToInterpolator(),
   },
-
   Rome: {
     // 41.890018715552245, 12.4798475284945
     longitude: 12.4798475284945,
     latitude: 41.890018715552245,
+    bearing: 0,
+    zoom: 12,
+    transitionDuration: 5000,
+    transitionInterpolator: new deck.FlyToInterpolator(),
+  },
+  Miami : {
+    // 25.769098573963404, -80.19576435761995
+    longitude: -80.19576435761995,
+    latitude: 25.769098573963404,
     bearing: 0,
     zoom: 12,
     transitionDuration: 5000,
