@@ -3,7 +3,7 @@ const cityViewState = {
     // 41.879694, -87.625443
     longitude: -87.625443,
     latitude: 41.879694,
-    zoom: 9,
+    zoom: 10,
     bearing: 0,
     transitionDuration: 5000,
     transitionInterpolator: new deck.FlyToInterpolator(),
