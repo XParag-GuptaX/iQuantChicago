@@ -1,3 +1,3 @@
 # iQuantChicago
 
-Making visualizations to help make people understand about Chicago
+Making visualizations to help people understand more about Chicago through the lens of data
